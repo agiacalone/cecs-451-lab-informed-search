@@ -1,11 +1,5 @@
 
-# CECS 451 – Lab #1: Informed Search  
-
-Assignment Description. The goal of this assignment is to practice the methods we discussed in lecture about informed search, specifically using hill-climbing to search for solutions. Use the readings in Chapter 4
-of AIMA3e as the reference for this assignment.
-Your goal is to create a Sudoku solver program that uses the hill-climbing algorithm to produce solutions
-for any given 9x9 Sudoku puzzle. 
-Sample Code UsethefollowingthreeSudokupuzzlesastestersto
+# CECS 451 Lab 1: Informed Search  
 
 ## Assignment Description
 
