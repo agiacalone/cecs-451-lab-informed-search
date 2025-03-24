@@ -1,5 +1,5 @@
 
-# CECS 451 Lab 1: Informed Search  
+# CECS 451 Lab #1: Informed Search  
 
 ## Assignment Description
 
